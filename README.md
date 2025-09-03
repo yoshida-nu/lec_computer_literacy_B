@@ -1,1 +1,1 @@
-# computer_literacy_B
+# コンピュータリテラシーB
